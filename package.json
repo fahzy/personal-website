@@ -1,0 +1,19 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "A website that contains information about me(Kabelo Leiee). It will also contain details about projects I have completed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahzy/personal-website.git"
+  },
+  "author": "Kabelo Leiee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahzy/personal-website/issues"
+  },
+  "homepage": "https://github.com/fahzy/personal-website#readme"
+}
