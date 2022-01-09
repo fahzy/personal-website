@@ -4,7 +4,8 @@
   "description": "A website that contains information about me(Kabelo Leiee). It will also contain details about projects I have completed.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"  
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fahzy/personal-website/issues"
   },
-  "homepage": "https://github.com/fahzy/personal-website#readme"
+  "homepage": "https://github.com/fahzy/personal-website#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
